@@ -257,7 +257,7 @@ function DrawPage() {
             </div>
 
             <a
-                href={isAdmin ? '/slot-gXWbKAvNXv/slot-OBdzd0Thfn/#/admin' : '/slot-gXWbKAvNXv/slot-OBdzd0Thfn/#/admin-login'}
+                href={isAdmin ? '/slot-OBdzd0Thfn/#/admin' : '/slot-OBdzd0Thfn/#/admin-login'}
                 className="go-admin no-capture"
             >
                 {isAdmin ? '관리자 페이지로 이동' : '관리자로 로그인'}
